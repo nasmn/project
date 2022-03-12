@@ -1,0 +1,16 @@
+body{
+    background-color: palevioletred;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    padding: 100px;
+}
+
+.str{
+    padding: 100px;
+}
